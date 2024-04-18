@@ -1,1 +1,2 @@
-# sql-home-values-project
+# SQL-Home-Values-Project
+This is a repository of my SQL codes for CodeAcademy's SQL PROJECT 4: “TRENDS IN ESTIMATED HOME VALUES”. This project utilizes the home_value_data.csv file which contains over 4 million entries of house prices around the US from 1996 - 2018. In this project, I conducted an array of analyses such as displaying the range of estimated home values across the US using the most recent month available, finding a list of states with the highest/lowest home values from a given time, and conducting a join to the census.csv database to predict relationships between home values and its demographics.
